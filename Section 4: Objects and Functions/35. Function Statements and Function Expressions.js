@@ -1,3 +1,8 @@
+/**
+ * Example of your notes.
+ * To run cd into the folder, and node.
+ * e.g.     node 35. Function...
+ */
 greet() ;
 
 function greet() {
@@ -13,7 +18,7 @@ var anonymousGreet = function() {
     console.log('bye');
 }
 
-
+anonymousGreet();
 
 /**
  * Why bother doing it this way?
