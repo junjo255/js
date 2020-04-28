@@ -1,0 +1,1 @@
+/** An array can contain anything including number, boolean, object, function, and string **/
